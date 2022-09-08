@@ -8,6 +8,9 @@ Challenges I faced doing this project were starting from scratch with nearly zer
 - I found that the syntax of the language was pretty easy to understand, but what I thought was pretty difficult was creating a database with redux to keep track of users, and their login info
 - After multiple tutorials I finally got the hang of it and successfully implemented the feature.
 
+![Home Page](./src/sc1.png)
+![Login Page](./src/sc2.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
