@@ -1,7 +1,4 @@
 # Becflix
-Get into the project repo, npm start it
-Get some screenshots of homepage, login and start page
-Readme
 
 This is a web app showcasing the data from a movie/tv show database
 - includes features such as user authentication, sorting movies/tv by category and user plan upgrades
