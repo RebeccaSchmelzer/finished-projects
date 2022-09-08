@@ -1,3 +1,16 @@
+# Becflix
+Get into the project repo, npm start it
+Get some screenshots of homepage, login and start page
+Readme
+
+This is a web app showcasing the data from a movie/tv show database
+- includes features such as user authentication, sorting movies/tv by category and user plan upgrades
+- tech used was mainly react and redux. 
+Challenges I faced doing this project were starting from scratch with nearly zero knowledge of React or redux. 
+- I was very much interested in getting into front-end dev and how you can see the project come to life as you build it. 
+- I found that the syntax of the language was pretty easy to understand, but what I thought was pretty difficult was creating a database with redux to keep track of users, and their login info
+- After multiple tutorials I finally got the hang of it and successfully implemented the feature.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts

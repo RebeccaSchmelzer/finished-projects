@@ -1,5 +1,5 @@
 import React from 'react'
-import './ProfileScreen.css'
+//import './ProfileScreen.css'
 
 function ProfileScreen() {
     return (
